@@ -1,0 +1,6 @@
+framework module B2CSDK {
+  umbrella header "B2CSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
